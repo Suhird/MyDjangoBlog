@@ -25,7 +25,7 @@ SECRET_KEY = 'm(__#vt*=fszh5+!wctq0fj-(b5b&9e01jsl3rvz#gzqev^@sr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['suhirdblog.suhirdnet.com']
+ALLOWED_HOSTS = ['suhirdblog.herokuapp.com']
 
 
 # Application definition
